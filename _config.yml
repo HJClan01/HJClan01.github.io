@@ -29,9 +29,8 @@ resume-url: https://drive.google.com/file/d/1kZ8b7QHwPJEqw9JWclxO08ElD_bXCAHe/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/henryclan 
-  github: leea12    # https://github.com/HJCLan01
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: henry-clan    # https://www.linkedin.com/in/henryclan 
+  github: HJCLan01    # https://github.com/HJCLan01
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
